@@ -15,5 +15,9 @@
     "babel-preset-stage-2": "^6.24.1",
     "eslint": "^5.5.0",
     "eslint-plugin-react": "^7.11.1"
+  },
+  "dependencies": {
+    "apollo-server": "^2.0.7",
+    "graphql": "^14.0.2"
   }
 }
